@@ -31,6 +31,7 @@
             <item value="1950-2399" />
         </string-array>
         <boolean name="carrier_volte_available_bool" value="true" />
+        <boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="support_pause_ims_video_calls_bool" value="true" />
         <int name="maxSubjectLength" value="80" />
         <string name="httpParams">x-up-calling-line-id: 1##LINE1NOCOUNTRYCODE##|X-VzW-MDN: 1##LINE1NOCOUNTRYCODE##</string>
@@ -49,6 +50,7 @@
         <boolean name="treat_downgraded_video_calls_as_video_calls_bool" value="true" />
         <boolean name="drop_video_call_when_answering_audio_call_bool" value="true" />
         <boolean name="editable_wfc_mode_bool" value="false"/>
+        <boolean name="editable_wfc_roaming_mode_bool" value="true"/>
         <boolean name="allow_merge_wifi_calls_when_vowifi_off_bool" value="false" />
         <boolean name="wifi_calls_can_be_hd_audio" value="false" />
         <boolean name="video_calls_can_be_hd_audio" value="false" />
